@@ -8,3 +8,6 @@ Raw for vencord: https://raw.githubusercontent.com/Pato06688/Customcss/main/Tran
 
 Dark matter:
 Raw for vencord: https://raw.githubusercontent.com/Pato06688/Customcss/main/DarkMatter.theme.css
+
+Fallout4Terminal:
+Raw for vencord: https://raw.githubusercontent.com/Pato06688/Customcss/main/Fallout4Terminal.theme.css
